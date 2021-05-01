@@ -66,7 +66,7 @@ class _Profile extends State<Profile>{
                 children: [
                   Padding(padding: EdgeInsets.only(left:25.0)),
                   Icon(CupertinoIcons.phone, color: Colors.green,),
-                  Text("\nPhone Number: 07775000",
+                  Text("\nPhone Number: 0112356890",
                     style: TextStyle(
                         fontSize: 25.0
                     ),)
